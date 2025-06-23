@@ -37,8 +37,8 @@
 
 ## 📫 Контакты
 
-- Telegram: [@твоя_ссылка](https://t.me/твоя_ссылка)
-- Email: example@mail.com (замени на свой)
+- Telegram: @Umbrella_Corp_NSK
+- Email: zammartin2@gmail.com
 
 ---
 
