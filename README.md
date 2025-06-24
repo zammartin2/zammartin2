@@ -17,7 +17,7 @@
 
 ## 🚀 Проекты
 
-### 🔧 [FAB Autosteer](https://github.com/zammartin2/fab_autosteer)  
+### 🔧 [FAB Autosteer](https://github.com/zammartin2/2025-fab-autosteer-core)  
 Автопилот для сельхозтехники. Управление рулевым мотором, вычисление линий движения, визуальный интерфейс на PyQt5, управление по Modbus RTU.
 
 ### 🌐 [AGRO Navigator Manager](https://github.com/zammartin2/agro-navigator)  
