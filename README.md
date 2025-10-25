@@ -1,9 +1,13 @@
 <!-- 🌌 UAIP / DEVORBIT PROFILE README -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zammartin2/uaip-brand/main/cover/neuroarch-banner.svg" width="100%" alt="UAIP Neuroarchitect Banner"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zammartin2/uaip-brand/main/cover/neuroarch-banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zammartin2/uaip-brand/main/cover/neuroarch-banner-light.svg">
+    <img src="https://raw.githubusercontent.com/zammartin2/uaip-brand/main/cover/neuroarch-banner-dark.svg" width="100%" alt="UAIP Neuroarchitect Banner">
+  </picture>
 </p>
 
-<h1 align="center">🧠 Владимир Заммартин</h1>
+<h1 align="center">🧠 Владимир zammartin2 </h1>
 <h3 align="center">Нейроархитектор быстрого реагирования • AI • IoT • Data • Systems Design</h3>
 
 ---
@@ -17,12 +21,12 @@
 ### 🚀 Кто я  
 
 Я — **нейроархитектор быстрого реагирования**, исследователь живых цифровых экосистем.  
-Моя работа — соединять **AI, IoT, Data и Backend** в когнитивные структуры,  
-где **каждый модуль способен учиться, объяснять и принимать решения**.  
+Создаю системы, где **данные превращаются в рассуждения**,  
+а **архитектура становится когнитивной средой**,  
+способной учиться, объяснять и принимать решения.  
 
-Я создаю не просто приложения,  
-а **системы с мышлением**, которые анализируют контекст,  
-понимают среду и эволюционируют вместе с задачей.  
+Моя цель — проектировать **осмысленные вычисления**,  
+где каждый модуль осознаёт свою роль в общей сети.
 
 ---
 
@@ -30,7 +34,7 @@
 
 - 🧠 **Когнитивные архитектуры** — reasoning-модули, explainable AI, trace-анализ  
 - ⚙️ **Реактивные системы** — Kafka, Redis Streams, MQTT, event-driven orchestration  
-- 🌐 **Цифровые двойники** — моделирование, симуляция, сенсорная синхронизация  
+- 🌐 **Цифровые двойники** — моделирование, синхронизация и управление физическими объектами  
 - ⚡ **Быстрое прототипирование** — от концепции до MVP-интеллекта за часы  
 - 🧬 **Генеративная инженерия** — LLM-агенты, автокодинг, самооптимизация  
 
@@ -57,10 +61,10 @@
 
 ### 🧬 Философия  
 
-> Архитектура — это не просто код и сервисы.  
+> Архитектура — это не просто набор сервисов.  
 > Это **форма сознания**, воплощённая в вычислениях.  
 >  
-> Настоящая система не исполняет команды —  
+> Истинная система не исполняет команды —  
 > она **понимает смысл** происходящего и адаптируется.  
 
 ---
@@ -78,8 +82,16 @@
 ### ⚡ Активность и метрики  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zammartin2&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zammartin2&layout=compact&theme=tokyonight&hide_border=true" height="165">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zammartin2&show_icons=true&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zammartin2&show_icons=true&theme=default&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=zammartin2&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zammartin2&layout=compact&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zammartin2&layout=compact&theme=default&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zammartin2&layout=compact&theme=tokyonight&hide_border=true" height="165">
+  </picture>
 </p>
 
 <p align="center">
@@ -97,5 +109,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zammartin2/uaip-brand/main/cover/uaip-footer.svg" width="150">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zammartin2/uaip-brand/main/cover/uaip-footer-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zammartin2/uaip-brand/main/cover/uaip-footer-light.svg">
+    <img src="https://raw.githubusercontent.com/zammartin2/uaip-brand/main/cover/uaip-footer-dark.svg" width="150">
+  </picture>
 </p>
