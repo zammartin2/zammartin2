@@ -21,11 +21,6 @@
 ---
 
 ## 🔥 Open Source проекты
-
-| Проект | Описание | Стек | Статус |
-|--------|----------|------|--------|
-| **[Aerounion CTZ](https://github.com/zammartin2/aerounion-ctz-backend)** | Платформа для управления авиатехникой и телематикой | NestJS, React, Prisma, WebSockets | 🚧 В разработке |
-| **[Aerounion Office](https://github.com/zammartin2/aerounion-office-backend)** | ERP для учета присутствия, документов и проектов | NestJS, React, Bull, Redis | 🚧 В разработке |
 | **[FreeTalk](https://github.com/zammartin2/freetalk)** | P2P-мессенджер с обходом блокировок | Go, WebRTC, криптография | 🚧 В разработке |
 
 > **Скоро все проекты будут выложены в открытый доступ.** Следите за обновлениями 👀
