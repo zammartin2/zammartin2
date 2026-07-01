@@ -4,34 +4,60 @@
   <img src="https://skillicons.dev/icons?i=ts,py,vue,nestjs,fastapi,docker,redis,kafka,ros,linux,git,ai" />
 </p>
 
+<p align="center">
+  <strong>Архитектор инженерных платформ · Open Source энтузиаст · Строю когнитивные системы</strong>
+</p>
+
 ---
 
 ## 🧑‍💻 Обо мне
 
-Я разработчик с 2018 года. Пишу бэкенды на **NestJS** и **Go**, фронтенды на **React** и **Vue**.
+Я разработчик с **2018 года**. Строю сложные системы, где пересекаются **AI, инженерия и реальный мир**.
 
-Сейчас веду несколько проектов:
+> 🚀 **Моя миссия** — создавать инструменты, которые помогают инженерам и ученым работать быстрее, умнее и безопаснее.
 
-- **Aerounion CTZ** — платформа для авиации и телематики (GPS, CAN-шина, SOS)
-- **Aerounion Office** — ERP-система для управления офисом и сотрудниками
-- **FreeTalk** — децентрализованный P2P-мессенджер на Go с обфускацией трафика
-
-Открываю исходники, потому что считаю: **хороший код должен быть полезен другим**.
+**Что я делаю:**
+- Пишу бэкенды на **NestJS** и **Go**
+- Строю фронтенды на **React** и **Vue**
+- Проектирую **AI-платформы** и **когнитивные системы**
+- Разрабатываю **Open Source** инструменты
 
 ---
 
-## 🔥 Open Source проекты
-| **[FreeTalk](https://github.com/zammartin2/freetalk)** | P2P-мессенджер с обходом блокировок | Go, WebRTC, криптография | 🚧 В разработке |
+## 🔥 Мои проекты
 
-> **Скоро все проекты будут выложены в открытый доступ.** Следите за обновлениями 👀
+### 🛡️ [FAB Shield](https://github.com/zammartin2/shield)
+**Security-фреймворк для Node.js с AI-защитой**
+- 25+ security-заголовков из коробки
+- Обнаружение XSS и SQL-инъекций
+- Система плагинов и метрики
+- ⭐ **Поставьте звезду, если полезно!**
+
+### 🗣️ [FreeTalk](https://github.com/zammartin2/freetalk)
+**Децентрализованный P2P-мессенджер**
+- Обход блокировок
+- Go, WebRTC, криптография
+- 🚧 В активной разработке
+
+### ✈️ Aerounion CTZ
+**Платформа для авиации и телематики**
+- GPS-трекинг, CAN-шина, SOS-системы
+- Коммерческий проект
+
+### 🏢 Aerounion Office
+**ERP-система для управления офисом**
+- Управление сотрудниками и задачами
+- Коммерческий проект
 
 ---
 
 ## 📦 Коммерческие проекты (закрытые)
 
-- **UAIP** — когнитивная платформа для инженерных расчетов
-- **AgroNavigator** — IoT для умного сельского хозяйства
-- **AeroFlow** — визуальный конструктор AI-процессов (аналог n8n)
+| Проект | Описание |
+|:---|:---|
+| **UAIP** | Когнитивная платформа для инженерных расчетов |
+| **AgroNavigator** | IoT для умного сельского хозяйства |
+| **AeroFlow** | Визуальный конструктор AI-процессов (аналог n8n) |
 
 ---
 
@@ -44,14 +70,37 @@
 
 ---
 
+## 🎯 Чем я могу быть полезен
+
+| Область | Что предлагаю |
+|:---|:---|
+| 🔒 **Безопасность Node.js** | Внедрение FAB Shield, аудит кода |
+| 🧠 **AI-платформы** | Проектирование когнитивных систем |
+| 🏗️ **Архитектура** | Сложные распределенные системы |
+| 📦 **Open Source** | Разработка и поддержка |
+
+---
+
 ## 📫 Контакты
 
-- **Telegram:** [@zammartin2](https://t.me/zammartin2)
-- **Email:** vladimir@uaip.ru
-- **Сайты:** [devorbit.ru](https://devorbit.ru) • [uaip.ru](https://uaip.ru) • [elfraim.ru](https://elfraim.ru)
+| Платформа | Ссылка |
+|:---|:---|
+| **Telegram** | [@zammartin2](https://t.me/zammartin2) |
+| **Email** | [vladimir@uaip.ru](mailto:vladimir@uaip.ru) |
+| **Сайты** | [devorbit.ru](https://devorbit.ru) · [uaip.ru](https://uaip.ru) · [elfraim.ru](https://elfraim.ru) |
+| **GitHub** | [zammartin2](https://github.com/zammartin2) |
 
 ---
 
 <p align="center">
   <i>«Код — это не магия. Это инженерия.»</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/zammartin2/shield">
+    <img src="https://img.shields.io/badge/⭐-FAB%20Shield-orange?style=for-the-badge" />
+  </a>
+  <a href="https://t.me/zammartin2">
+    <img src="https://img.shields.io/badge/📬-Telegram-blue?style=for-the-badge" />
+  </a>
 </p>
