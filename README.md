@@ -86,7 +86,7 @@
 | Платформа | Ссылка |
 |:---|:---|
 | **Telegram** | [@zammartin2](https://t.me/zammartin2) |
-| **Email** | [vladimir@uaip.ru](mailto:vladimir@uaip.ru) |
+| **Email** | [legal@devorbit.ru](mailto:legal@devorbit.ru) |
 | **Сайты** | [devorbit.ru](https://devorbit.ru) · [uaip.ru](https://uaip.ru) · [elfraim.ru](https://elfraim.ru) |
 | **GitHub** | [zammartin2](https://github.com/zammartin2) |
 
