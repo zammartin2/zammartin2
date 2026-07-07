@@ -77,7 +77,7 @@ Security-фреймворк для Node.js-приложений: HTTP-загол
   </a>
 </p>
 
-**Статус:** Open Source · `v1.3.1` · `1119 / 1119` тестов · `89.97%` coverage  
+**Статус:** Open Source · `v1.3.5` · `1260 / 1260` тестов · `91.06%` coverage  
 **Стек:** TypeScript, Node.js, Jest, npm, Fab Registry
 
 **Ключевые возможности:**
