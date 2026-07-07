@@ -67,10 +67,10 @@ Security-фреймворк для Node.js-приложений: HTTP-загол
     <img src="https://img.shields.io/badge/Node.js-%3E%3D18.0-brightgreen?style=flat-square&logo=node.js" alt="Node.js 18+" />
   </a>
   <a href="https://github.com/zammartin2/shield">
-    <img src="https://img.shields.io/badge/coverage-89.97%25-brightgreen?style=flat-square" alt="coverage" />
+    <img src="https://img.shields.io/badge/coverage-91.06%25-brightgreen?style=flat-square" alt="coverage" />
   </a>
   <a href="https://github.com/zammartin2/shield">
-    <img src="https://img.shields.io/badge/tests-1119%20passed-brightgreen?style=flat-square&logo=jest" alt="tests" />
+    <img src="https://img.shields.io/badge/tests-1260%20passed-brightgreen?style=flat-square&logo=jest" alt="tests" />
   </a>
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT License" />
