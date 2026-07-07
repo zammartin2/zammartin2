@@ -224,17 +224,6 @@ npm-совместимый реестр пакетов для команд, ко
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zammartin2&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zammartin2&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</p>
-
----
 ## 🧭 Мои принципы
 
 1. **Системное мышление** — вижу всю картину, а не только её часть
