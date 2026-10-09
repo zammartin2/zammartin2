@@ -82,7 +82,7 @@ Security-фреймворк для Node.js-приложений: HTTP-загол
   </a>
 </p>
 
-**Статус:** Open Source · `v1.4.1` · `1405 / 1405` тестов · `99.55%` coverage
+**Статус:** Open Source · `v1.4.2` · `1405 / 1405` тестов · `99.55%` coverage
 **Стек:** TypeScript, Node.js, Jest, npm, Fab Registry
 
 **Ключевые возможности:**
@@ -94,7 +94,7 @@ Security-фреймворк для Node.js-приложений: HTTP-загол
 - Метрики и отчёты
 - Расширяемая система плагинов
 
-**Ссылки:** [GitHub](https://github.com/zammartin2/shield) · [npm](https://www.npmjs.com/package/@fab-orbita/shield) · [Live Demo](https://fab.devorbit.ru)
+**Ссылки:** [GitHub](https://github.com/zammartin2/shield) · [npm](https://www.npmjs.com/package/@fab-orbita/shield) · [Live Demo](https://shield.devorbit.ru)
 
 ---
 
@@ -120,7 +120,7 @@ Zero-dependency QR-генератор с полным ISO/IEC 18004 — Node.js,
   </a>
 </p>
 
-**Статус:** Open Source · `v1.1.0` · `253 / 253` тестов · `100%` coverage
+**Статус:** Open Source · `v1.1.1` · `253 / 253` тестов · `100%` coverage
 **Стек:** TypeScript, tsup, vitest, esbuild
 
 **Ключевые возможности:**
@@ -132,7 +132,17 @@ Zero-dependency QR-генератор с полным ISO/IEC 18004 — Node.js,
 - Zero runtime dependencies
 - 1280 матричных сравнений с эталонной реализацией `qrcode`
 
-**Ссылки:** [GitHub](https://github.com/zammartin2/qr) · [npm](https://www.npmjs.com/package/@fab-orbita/qr)
+**Ссылки:** [GitHub](https://github.com/zammartin2/qr) · [npm](https://www.npmjs.com/package/@fab-orbita/qr) · [Demo](https://qr.devorbit.ru)
+
+---
+
+### 🎨 @fab-orbita/qr-styling
+
+Zero-dependency стилизация QR-кодов для `@fab-orbita/qr`: формы модулей, градиенты, стили finder-паттернов, PNG-логотипы. SVG и PNG для Node.js, браузеров и edge-рантаймов.
+
+**Статус:** Open Source · `v0.1.0`
+
+**Ссылки:** [GitHub](https://github.com/zammartin2/qr-styling) · [npm](https://www.npmjs.com/package/@fab-orbita/qr-styling) · [Demo](https://qr.devorbit.ru/#styles)
 
 ---
 
@@ -309,9 +319,8 @@ npm-совместимый реестр пакетов для команд, ко
 | **DEVORBIT** | [devorbit.ru](https://devorbit.ru) |
 | **Fab Registry** | [fab.devorbit.ru](https://fab.devorbit.ru) |
 | **FAB Shield** | [github.com/zammartin2/shield](https://github.com/zammartin2/shield) |
-| **@fab-orbita/qr** | [github.com/zammartin2/qr](https://github.com/zammartin2/qr) |
+| **@fab-orbita/qr** | [github.com/zammartin2/qr](https://github.com/zammartin2/qr) · [демо](https://qr.devorbit.ru) |
 | **UAIP** | [uaip.ru](https://uaip.ru) |
-| **ELFRAIM** | [elfraim.ru](https://elfraim.ru) |
 
 ---
 
@@ -328,7 +337,7 @@ npm-совместимый реестр пакетов для команд, ко
 
 | Проект | Результат |
 |--------|-----------|
-| **FAB Shield** | Open source security-фреймворк: 1405 тестов, 99.55% coverage, 396 downloads/неделю |
+| **FAB Shield** | Open source security-фреймворк: 1405 тестов, 99.55% coverage, 400 downloads/неделю |
 | **@fab-orbita/qr** | Zero-dependency QR-генератор: 253 теста, 100% coverage, ISO/IEC 18004 |
 | **Fab Registry** | npm-совместимый реестр для enterprise и приватной инфраструктуры |
 | **DevOrbit** | 5 направлений — от образования до финансов |
